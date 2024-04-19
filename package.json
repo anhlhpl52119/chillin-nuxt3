@@ -11,6 +11,8 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
-    "nuxt": "^3.6.1"
+    "nuxt": "^3.6.1",
+    "scss": "^0.2.4",
+    "unocss": "^0.59.4"
   }
 }
