@@ -1,7 +1,5 @@
 <template>
-  <div>
-    hello
-  </div>
+  <main>Tempsd</main>
 </template>
 
 <script lang="ts" setup>
