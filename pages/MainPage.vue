@@ -2,7 +2,7 @@
   <main style="background-color: #2c2a2a; color: white; height: 90vh; padding: 30px">
 
   <div>
-    this is main page
+    this is main
   </div>
 
   <div>
