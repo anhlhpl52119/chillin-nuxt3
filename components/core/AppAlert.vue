@@ -1,6 +1,6 @@
 <template>
   <div>
-    This is app AppAlert
+    This is app AppAle
     <p v-if="foo">this is foo</p>
   </div>
 </template>
